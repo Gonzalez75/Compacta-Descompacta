@@ -1,0 +1,15 @@
+C:\Users\Gonzalez\Desktop\Compacta-Descompacta\Compacta\Compacta\bin\Debug\net6.0\Compacta.exe
+C:\Users\Gonzalez\Desktop\Compacta-Descompacta\Compacta\Compacta\bin\Debug\net6.0\Compacta.deps.json
+C:\Users\Gonzalez\Desktop\Compacta-Descompacta\Compacta\Compacta\bin\Debug\net6.0\Compacta.runtimeconfig.json
+C:\Users\Gonzalez\Desktop\Compacta-Descompacta\Compacta\Compacta\bin\Debug\net6.0\Compacta.dll
+C:\Users\Gonzalez\Desktop\Compacta-Descompacta\Compacta\Compacta\bin\Debug\net6.0\Compacta.pdb
+C:\Users\Gonzalez\Desktop\Compacta-Descompacta\Compacta\Compacta\obj\Debug\net6.0\Compacta.csproj.AssemblyReference.cache
+C:\Users\Gonzalez\Desktop\Compacta-Descompacta\Compacta\Compacta\obj\Debug\net6.0\Compacta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gonzalez\Desktop\Compacta-Descompacta\Compacta\Compacta\obj\Debug\net6.0\Compacta.AssemblyInfoInputs.cache
+C:\Users\Gonzalez\Desktop\Compacta-Descompacta\Compacta\Compacta\obj\Debug\net6.0\Compacta.AssemblyInfo.cs
+C:\Users\Gonzalez\Desktop\Compacta-Descompacta\Compacta\Compacta\obj\Debug\net6.0\Compacta.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalez\Desktop\Compacta-Descompacta\Compacta\Compacta\obj\Debug\net6.0\Compacta.dll
+C:\Users\Gonzalez\Desktop\Compacta-Descompacta\Compacta\Compacta\obj\Debug\net6.0\refint\Compacta.dll
+C:\Users\Gonzalez\Desktop\Compacta-Descompacta\Compacta\Compacta\obj\Debug\net6.0\Compacta.pdb
+C:\Users\Gonzalez\Desktop\Compacta-Descompacta\Compacta\Compacta\obj\Debug\net6.0\Compacta.genruntimeconfig.cache
+C:\Users\Gonzalez\Desktop\Compacta-Descompacta\Compacta\Compacta\obj\Debug\net6.0\ref\Compacta.dll
